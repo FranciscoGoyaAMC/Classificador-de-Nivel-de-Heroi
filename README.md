@@ -26,9 +26,8 @@ O código solicita ao usuário que insira o nome de um herói e sua quantidade d
 
 ## 💡 Exemplo de saída
 
-Digite o nome do herói: Arthus
-Digite a quantidade de XP do herói: 7200
-
+Digite o nome do herói: Arthus  
+Digite a quantidade de XP do herói: 7200  
 O herói de nome Arthus está no nível Platina Diamante com 7200 XP.
 
 ## 🧑‍💻 Tecnologias usadas
